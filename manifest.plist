@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/rzs-git/test/raw/main/icon_57pt.png</string>
+					<string>http://ustatic.ufile.ucloud.com.cn/img/icon_57pt.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/rzs-git/test/raw/main/icon_512pt.png</string>
+					<string>http://ustatic.ufile.ucloud.com.cn/img/icon_512pt.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
